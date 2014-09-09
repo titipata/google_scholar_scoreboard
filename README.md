@@ -25,6 +25,7 @@ Thanks
 ---------
 - Hugo Fernandes for advice and suggestion
 
-See example picture of the scoreboard on scoreboard_example.png
-
+Example Scoreboard
+---------
+This is example picture of the scoreboard produced by matplotlib
 ![Alt text](https://github.com/titipata/google_scholar_scoreboard/blob/master/scoreboard_example.png "Example")
