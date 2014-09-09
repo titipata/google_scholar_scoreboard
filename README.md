@@ -1,7 +1,8 @@
 google_scholar_scoreboard
 =========================
 
-Real time citation from Google Scholar
+Real time citation from Google Scholar. Create the scoreboard of citations of people in the lab.
+This version, we are using ipython notebook to run our created code.
 
 Requirement:
 - ipython +notebook
@@ -10,4 +11,4 @@ Requirement:
 - pygame
 - pandas
 - urllib2
-- matplotlib
+- matplotlib (to display citation)
