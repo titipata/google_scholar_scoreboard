@@ -21,6 +21,9 @@ Members
 - Titipat Achakulvisut
 - Daniel Acuna
 
+Thanks
+---------
+- Hugo Fernandes for advice and suggestion
 
 See example picture of the scoreboard on scoreboard_example.png
 
