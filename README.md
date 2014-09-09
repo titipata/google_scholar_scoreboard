@@ -4,7 +4,7 @@ google_scholar_scoreboard
 Real time citation from Google Scholar. Create the scoreboard of citations of people in the lab.
 This version, we are using ipython notebook to run our created code.
 
-We can simply see the code on notebook viewer:
+We can simply see ipython notebook code on notebook viewer:
 http://nbviewer.ipython.org/github/titipata/google_scholar_scoreboard/blob/master/Google%20Scholar%20-%20Kording%20Lab.ipynb
 
 Requirements
