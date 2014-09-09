@@ -8,10 +8,10 @@ Requirements
 ---------
 - Python 2.7
 - iPython +notebook
-- numpy >= 1.6
+- Numpy >= 1.6
 - lxml
-- pygame 
-- pandas >= 0.10
+- Pygame 
+- Pandas >= 0.10
 - urllib2
 - matplotlib (to display citation)
 
