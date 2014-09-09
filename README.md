@@ -12,3 +12,6 @@ Requirement:
 - pandas
 - urllib2
 - matplotlib (to display citation)
+
+
+See example picture of the scoreboard on scoreboard_example.png
