@@ -23,3 +23,5 @@ Members
 
 
 See example picture of the scoreboard on scoreboard_example.png
+
+![Alt text](https://github.com/titipata/google_scholar_scoreboard/blob/master/scoreboard_example.png "Example")
