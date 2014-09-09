@@ -6,12 +6,12 @@ This version, we are using ipython notebook to run our created code.
 
 Requirements
 ---------
-- Python 2.7
-- iPython +notebook
-- Numpy >= 1.6
+- python 2.7
+- ipython +notebook
+- numpy >= 1.6
 - lxml
-- Pygame 
-- Pandas >= 0.10
+- pygame 
+- pandas >= 0.10
 - urllib2
 - matplotlib (to display citation)
 
