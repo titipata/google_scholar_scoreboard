@@ -1,0 +1,7 @@
+# Ignore files
+.DS_Store
+.ipynb_checkpoints/*
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
