@@ -1,7 +1,7 @@
 google_scholar_scoreboard
 =========================
 
-Real time citation from Google Scholar. Create the scoreboard of citations of people in the lab.
+Real time citation from Google Scholar. Create the scoreboard of citations of people in the lab (example is from Kording Lab).
 This version, we are using ipython notebook to run our created code.
 
 We can simply see ipython notebook code on notebook viewer:
