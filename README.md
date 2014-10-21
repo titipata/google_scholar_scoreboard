@@ -16,7 +16,8 @@ Requirements
 - pygame 
 - pandas >= 0.10
 - urllib2
-- matplotlib (to display citation)
+- matplotlib
+- python image library(PIL)
 
 
 Members
