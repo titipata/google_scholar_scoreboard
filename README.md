@@ -1,11 +1,9 @@
 google_scholar_scoreboard
 =========================
 
-Real time citation from Google Scholar. Create the scoreboard of citations of people in the lab (example is from Kording Lab).
-This version, we are using ipython notebook to run our created code.
+Example code to create real time citation score board from Google Scholar. We create the scoreboard of citations of people in the lab (example is from Kording Lab). This version, we use ipython notebook to create the dash board.
 
-We can simply see ipython notebook code on notebook viewer:
-http://nbviewer.ipython.org/github/titipata/google_scholar_scoreboard/blob/master/Google%20Scholar%20-%20Kording%20Lab.ipynb
+You can explore our ipython notebook code with notebook viewer via this [link] (http://nbviewer.ipython.org/github/titipata/google_scholar_scoreboard/blob/master/Google%20Scholar%20-%20Kording%20Lab.ipynb)
 
 Requirements
 ---------
@@ -17,7 +15,7 @@ Requirements
 - pandas >= 0.10
 - urllib2
 - matplotlib
-- python image library(PIL)
+- python image library (PIL)
 
 
 Members
